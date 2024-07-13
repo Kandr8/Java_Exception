@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4455c025-324f-43db-955a-eb6f0eca9034" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DateException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParsData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SexException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WriteFile.java" afterDir="false" />
-    </list>
+    <list default="true" id="4455c025-324f-43db-955a-eb6f0eca9034" name="Changes" comment="Java_Exception_HomeWork" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +40,20 @@
       <recent name="IOException" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Exception03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +63,30 @@
       <option name="presentableId" value="Default" />
       <updated>1720900891180</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java_Exception_HomeWork">
+      <option name="closed" value="true" />
+      <created>1720902664968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720902664968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java_Exception_HomeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java_Exception_HomeWork" />
   </component>
 </project>
